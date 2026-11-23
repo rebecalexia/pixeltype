@@ -1,0 +1,6 @@
+{
+  "name": "PixelaType",
+  "description": "Editor de pixelização tipográfica com Google Fonts, fontes externas e exportação em PNG transparente e vetor SVG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
